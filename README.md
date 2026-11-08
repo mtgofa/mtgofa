@@ -73,8 +73,9 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mtgofa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtgofa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtgofa&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtgofa&theme=tokyonight" alt="Most used languages" /><br/>
+  <img src="https://streak-stats.demolab.com?user=mtgofa&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
 
 ---
